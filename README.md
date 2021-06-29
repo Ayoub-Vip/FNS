@@ -1,7 +1,7 @@
 # FNS
 <h5 color="blue">Facebook Number Selection (for call centers)<h5/>
 
-A full version program, uses an external-source of data to find potentials client (phone number) by analyzing there activities and interests in facebook and finally compare them with the perfect profile.
+A full version program, uses an external-source of data 😱 to find potentials client (phone number) by analyzing there activities and interests in facebook and finally compare them with the perfect profile.
 
   FNS selects from source DATA profiles that are more probobly to be interested to a product, that is choosen by the seller.
   
