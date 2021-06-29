@@ -7,10 +7,10 @@ A full version program, uses an external-source of data to find potentials clien
   
    ## it does the following process:
   
-* 1.Restruct the holl data and reforme them to be readable information by program and easy-access.
+1. Restruct the holl data and reforme them to be readable information by program and easy-access.
   
-* 2.choose the appropriate conditions of selecting
+2. choose the appropriate conditions of selecting
   
-* 3.develope/translate these conditions by the coder
+3. develope/translate these conditions by the coder
   
-* 4.use IA and tracking ads' followers/targets to determine which users are more probobely to bay the product.
+4. use IA and tracking ads' followers/targets to determine which users are more probobely to bay the product.
