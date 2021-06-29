@@ -5,7 +5,7 @@ A full version program, uses an external-source of data to find potentials clien
 
   FNS selects from source DATA profiles that are more probobly to be interested to a product, that is choosen by the seller.
   
-   ##it does the following process:
+   ## it does the following process:
   
 * 1.Restruct the holl data and reforme them to be readable information by program and easy-access.
   
